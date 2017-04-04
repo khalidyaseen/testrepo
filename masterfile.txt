@@ -2,4 +2,4 @@ this is a master file where i added a text file
 
 
 
-edited it again
+edited it again and now trying to checkout from a file
